@@ -12,6 +12,7 @@ class DatabaseSeeder extends Seeder
             RoleSeeder::class,
             SkalaNilaiPnlSeeder::class,
             SkemaPenilaianSeeder::class,
+            UserSeeder::class,
         ]);
     }
 }
